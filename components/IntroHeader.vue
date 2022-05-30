@@ -8,7 +8,7 @@
         Software Engineer
       </p>
       <p class="intro__header-information_resume text-white mt-5 text-2xl tracking-wide">
-        I am a student at Ho Chi Minh University of Sciences and a Software Engineer about 1 year.
+        I am a student at Ho Chi Minh City University of Science and a Software Engineer about 1 year.
         I am friendly with Web as Javascript Fullstack Developer.
       </p>
     </div>
