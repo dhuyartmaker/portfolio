@@ -31,29 +31,29 @@ export default {
     return {
       skills: [
         {
-          name: "Computer",
-          description: "Office"
-        },
-        {
           name: "OS",
           description: "MacOS, Ubuntu, Window"
         },
         {
           name: "Program Languege",
-          description: "Javascript, NodeJS, HTML, CSS"
+          description: "Javascript/Typescript, NodeJS, HTML, CSS"
         },
         {
           name: "Database",
-          description: "MySQL",
+          description: "MongoDb, MySQL",
         },
         {
           name: "Framework",
-          description: "ExpressJS, ReactJS"
+          description: "ExpressJS, ReactJS, NextJs"
         },
         {
           name: "English",
-          description: "Basic communication, CEF: B1.2."
-        }
+          description: "CEF: B2"
+        },
+        {
+          name: "My learning",
+          description: "I am learning Docker, K8s"
+        },
       ]
     }
   }

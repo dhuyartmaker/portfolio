@@ -1,5 +1,5 @@
 <template>
-  <div class="text-white flex flex-row text-2xl">
+  <div class="text-white flex flex-row text-2xl mt-7">
     <div class="work__time-line relative w-5 h-['inherit'] flex flex-col items-center">
       <div class="timeline rounded-full w-6 h-6 z-10"></div>
       <div class="timeline absolute top-3 rounded h-full w-1"></div>

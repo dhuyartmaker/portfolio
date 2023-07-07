@@ -9,7 +9,7 @@
 				<p><a href="#about">About</a></p>
 				<p><a href="#portfolio">Portfolio</a></p>
 				<p><a href="#more">More</a></p>
-				<p><a href="/HUYNH-DUC-HUY-CV.pdf" download >MyCV</a></p>
+				<p><a href="/HUYNH-DUC-HUY-Junior-Developer-CV.pdf" download >MyCV</a></p>
 			</div>
 		</div>
 		<div class="portfolio__navbar-social_network relative flex justify-end items-center">

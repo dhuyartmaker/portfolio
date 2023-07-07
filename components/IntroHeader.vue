@@ -8,8 +8,12 @@
         Software Engineer
       </p>
       <p class="intro__header-information_resume text-white mt-5 text-2xl tracking-wide">
-        I am a student at Ho Chi Minh City University of Science and a Software Engineer about 1 year.
-        I am friendly with Web as Javascript Fullstack Developer.
+        I am a Software Engineer about 2 year. <br />
+        I am friendly with Web Develop as Javascript Fullstack Developer.
+      </p>
+      <p class="intro__header-information_resume text-white mt-5 text-2xl tracking-wide">
+        <span class="text-white">Github:</span>
+        <a href="https://github.com/dhuyartmaker" target="_blank">github.com/dhuyartmaker </a>
       </p>
     </div>
     <div class="intro__header-avatar ml-10 flex-1 flex justify-center items-center">
