@@ -22,7 +22,9 @@ export default {
           name: 'Admin Ninecode System',
           description: "This is Admin microservice system. Include gateway api, content service, website and cms page.",
           technology: "ExpressJs, ReactJs",
-          responsibility: "Manage task (4 members) and intergrating multi language, manage news, and SEO for React app."
+          responsibility: `First time working as a supporter for the entire CMS System. Spend 20% of the time managing and supporting team members and 80% coding.
+Have a clear understanding of the entire microservice architecture, including gateway APIs and multiple services. Build a microservice system to manage accounts, blogs, and multi-language support for products.Write structure - API documents. Accurately estimate task times for team members.
+Work with superiors to find solutions and manage the project schedule.`
         },
         {
           time: '07/2022-06/2023',
@@ -30,36 +32,29 @@ export default {
           name: 'Vietcan Website',
           description: "SEO page Vietcan and CMS. (https://vietcan.com)",
           technology: "ExpressJs, ReactJs, NextJs",
-          responsibility: "Manage task (2 members) and review code. Design schema, coding backend, frontend. Research and give solution for create UI template as Wordpress structure."
+          responsibility: `Clone Wordpress Web and rebuild it with MERN Stack. Develop a monolithic backend that includes login, file uploading, account and blog management, covering all features needed for SEO And Manage Landing Page.
+Suggest, start learning, and develop a Landing page with NextJs, utilizing caching with SWR and ISR to achieve high-performance website loading.
+Use ReactJs and MUI to develop a CMS with a main feature of drag & drop components for creating various UI templates.`
         },
         {
-          time: '07/2022-06/2023',
+          time: '06/2022-06/2023',
           workAt: 'Ninecode',
-          name: 'Ninequiz',
-          description: "This is creating and managing quiz website (https://ninequiz.com)",
-          technology: "ExpressJs, ReactJs",
-          responsibility: "Design schema, support backend optimization and find solution for requirement. Intergrating new feature ChatGPT into app. Supporter for performance testing Gateway service."
-        },
-        {
-          time: '07/2022-06/2023',
-          workAt: 'Ninecode',
-          name: 'Qrcode-gen',
+          name: 'Qrcode-gen / Ninequiz ',
           description: "This is creating qrcode web. (https://qrcode-gen.com)",
           technology: "ExpressJs, ReactJs",
-          responsibility: "Maintain and develop new feature for creating Qrcode system. Develop microservice system using MERN stack, gRPC, Redis. Design schema, optimize DB and backend by intergrating Redis. Sync payment data between services. Manage and deploy dev server."
+          responsibility: `Work as a Fullstack JS Web Developer and use MongoDB consistently. 
+Apply many modern design patterns to MongoDB to design Schema. Maintain and fix bugs for both products.Suggest solutions help dealing high request concurrency when student access quiz to contest, refactor API structure, perform queries at Cronjob, and create indexes to deal with high CPU usage on the Mongo server. Research  Replica, and Sharding.
+Extend Payment feature and use gRPC to synchronize payment data.
+Utilize Redis caching for user information to improve request time (~500ms).
+Can work independently from basic design to development. Divide tasks into smaller parts, estimate, and complete them before the deadline.
+Start code review for team members to ensure clean JavaScript code practices.
+Develop new features such as PDF Qrcode. Integrate with the AI team to create a Bot Chat - using OpenAI API.
+Create Business Card feature with many dynamic template, using MUI, Redux Saga to develop.`
         },
         {
-          time: '07/2022-06/2023',
-          workAt: 'Ninecode',
-          name: 'Ninecard',
-          description: "This is create and manage Vcard website. (https://ninecard.one)",
-          technology: "ExpressJs, ReactJs",
-          responsibility: "I work independence for building website."
-        },
-        {
-          time: '02/2022-05/2022',
+          time: '01/2021-05/2022',
           workAt: 'Hybrid Technologies',
-          name: 'Aircloset',
+          name: 'Aircloset/Airtripstay',
           description: "This is big system serve buy, rent clothes in Japan.",
           technology: "NodeJs (ExpressJs, NestJs, Koa, Fastify,...), ReactJs, Angular 1, React Native",
           responsibility: "I do everything work relate development application. Such as writing DD, develop for frontend and backend, manual testing, write automation test for frontend, deploy..."
@@ -71,14 +66,6 @@ export default {
           description: "An web application providing subsidy policy from the government",
           technology: "NuxtJs",
           responsibility: "Supporter for frontend development."
-        },
-        {
-          time: '02/2021 - 10/2021',
-          workAt: 'Hybrid Technologies',
-          name: 'AirtripStay',
-          description: "This is an admin app help them manage listing, home, apartment,... which linked from Airbnb. Syncronize data from Airbnb and provide API for other partners as Checkin, Cleaning,...",
-          technology: "NodeJs (ExpressJs), ReactJs, Redux",
-          responsibility: 'In work, i am a FullStack Developer. I am resonsibility for fixing bugs and developing new feature on Frontend end Backend'
         },
         {
           time: '12/2020 - 7/2021',
